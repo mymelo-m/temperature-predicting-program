@@ -1,0 +1,27 @@
+1. 天气（赋值）
+tau_b = -0.07038711641517338
+kendalltau(dat1,dat2) =  SignificanceResult(statistic=-0.07038711641517337, pvalue=1.8150914869667852e-09)
+
+2. 风向（赋值）
+tau_b = 0.32392746812615236
+kendalltau(dat1,dat2) =  SignificanceResult(statistic=0.32392746812615236, pvalue=1.8235217971174085e-163)
+
+3. 风力（赋值）
+tau_b = -0.006063082512347247
+kendalltau(dat1,dat2) =  SignificanceResult(statistic=-0.006063082512347247, pvalue=0.6117531718564422)
+
+4. 三伏天
+tau_b = 0.3938231149019763
+kendalltau(dat1,dat2) =  SignificanceResult(statistic=0.3938231149019763, pvalue=9.004812503143417e-184)
+
+5. 季节
+tau_b = 0.6187124246944754
+kendalltau(dat1,dat2) =  SignificanceResult(statistic=0.6187124246944754, pvalue=0.0)
+
+6. 农历季节
+tau_b = 0.39175215699968285
+kendalltau(dat1,dat2) =  SignificanceResult(statistic=0.39175215699968285, pvalue=8.484578903138534e-218)
+
+7. 农历季节+三伏天
+tau_b = 0.4476325279260118
+kendalltau(dat1,dat2) =  SignificanceResult(statistic=0.44763252792601177, pvalue=2.6451654890412227e-289)
