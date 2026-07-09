@@ -1,4 +1,4 @@
-## Warning: This is a project in beta. And I have no idea if I'm using this right lol. If you encounter any glaring bugs, a report is much appreciated.
+## Warning: This is a project in beta. If you encounter any glaring bugs, a report is much appreciated.
 
 # Temperature Predicting Program
 
